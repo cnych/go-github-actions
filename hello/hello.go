@@ -1,6 +1,9 @@
 package hello
 
+var parm string
+
 // Greet ... Greet GitHub Actions
 func Greet() string {
-  return "Hello GitHub Actions. qikqiak.com is awesome"
+	parm = "fwef"
+	return "Hello GitHub Actions. qikqiak.com is awesome" + parm
 }
