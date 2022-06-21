@@ -1,3 +1,3 @@
-module github.com/cnych/go-github-actions
+module github.com/lishuo5263/go-github-actions
 
 go 1.12
