@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println(hello.Greet())
 	fmt.Println(hello.Greet())
+	fmt.Println(hello.Greet())
 }
